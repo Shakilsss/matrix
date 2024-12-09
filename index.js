@@ -1,5 +1,5 @@
 const canvas = document.getElementById('Matrix');
-const context = canvas.getContext('2d');
+const context = canvas.getContext('3d');
 
 canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
